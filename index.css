@@ -1,0 +1,42 @@
+body {
+    background-color: #22272f;
+    color: #ccc;
+}
+
+input {
+    font-size: 1.8em;
+    background-color: transparent;
+    border: 0.2rem solid #fcc22f;
+    border-radius: 0.6rem;
+    outline: none;
+    color: #fff;
+    cursor: text;
+    padding-left: 1rem;
+}
+
+label {
+    display: block;
+    position: relative;
+    color: #888;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    margin: 15vh;
+    text-align: center;
+}
+
+button {
+    background-color: #363d47;
+    border: 0;
+    color: #fcc22f;
+    cursor: pointer;
+    font-size: 1.2rem;
+    padding: 0.6rem;
+    position: absolute;
+    left: 44.5vw;
+    top: 46.5vh;
+}
